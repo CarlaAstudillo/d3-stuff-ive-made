@@ -1,0 +1,97 @@
+
+#ibt-container {
+  font-size: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+  fill: #1280A6;
+   margin: 0;
+   height: auto;
+}
+
+#ibt-container div.btn-group.bootstrap-select {
+  margin-bottom: 30px;
+  width: 90%;
+}
+
+#ibt-container h1, #ibt-container h2, #ibt-container h3 {
+  color: #000;
+  font-weight: 700;
+
+}
+
+#ibt-container h1 {
+  font-size: 22px;
+}
+
+#ibt-container h2 {
+  font-size: 20px;
+}
+
+#ibt-container h3 {
+  font-size: 16px;
+}
+
+#ibt-container p {
+  color: #787878;
+  font-size: 12px;
+    line-height: 17px;
+}
+
+
+
+#ibt-container .line {
+  fill: none;
+  stroke: #1280A6;
+  stroke-width: 1.5px;
+
+}
+
+#map {
+  max-width: 800px;
+
+}
+
+.china {
+
+  fill: none;
+        stroke: #1280A6;
+        stroke-width: 0.8px;
+        opacity: 0.4;
+
+}
+
+#credit {
+  float: right;
+  padding-right: 10px;
+}
+
+
+#credit img{
+  width: 70px;
+  float: right;
+  padding-bottom: 10px;
+}
+
+#credit p{
+  clear: both;
+  text-align: right;
+}
+
+
+
+
+
+#ibt-container .area {
+  opacity: 0.7;
+}
+
+#ibt-container .axis path,
+#ibt-container .axis line {
+        fill: none;
+        stroke: #1280A6;
+        shape-rendering: crispEdges;
+      }
+      
+#ibt-container .axis text {
+        font-family: 'Source Sans Pro', sans-serif;
+
+      }
