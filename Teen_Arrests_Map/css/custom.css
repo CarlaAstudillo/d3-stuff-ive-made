@@ -1,0 +1,125 @@
+
+#ibt-container {
+  font-size: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+  fill: #1280A6;
+   margin: 0;
+   height: auto;
+}
+
+#ibt-container div.btn-group.bootstrap-select {
+  margin-bottom: 30px;
+  width: 90%;
+}
+
+#ibt-container h1, #ibt-container h2, #ibt-container h3 {
+  color: #000;
+  font-weight: 700;
+
+}
+
+#ibt-container h1 {
+  font-size: 22px;
+}
+
+#ibt-container h2 {
+  font-size: 20px;
+}
+
+#ibt-container h3 {
+  font-size: 16px;
+}
+
+#ibt-container h4 {
+  font-size: 14px;
+}
+
+#ibt-container p {
+  color: #787878;
+  font-size: 13px;
+    line-height: 17px;
+}
+
+#ibt-container img {
+  width: 50px;
+  float: right;
+}
+
+#ibt-container .line {
+  fill: none;
+  stroke: #1280A6;
+  stroke-width: 1.5px;
+
+}
+
+#map {
+  max-width: 800px;
+
+}
+
+.rio, .rionabes {
+
+        stroke: #E6E6E6;
+        stroke-width: 1px;
+        opacity: 1;
+
+}
+
+/*div.tooltip {       
+    width: 50%;
+    font-size: 14px;     
+    padding: 2px;   
+    pointer-events: none;     
+}*/
+
+#ibt-container .area {
+  opacity: 0.7;
+}
+
+.number {
+  font-weight: bold;
+  color: #1d91c0;;
+  font-size: 18px;
+}
+
+#infobox p {
+ font-size: 14px;
+ color: #333;
+}
+
+#legend {
+    padding: 1.5em 0 3.5em 1.5em;
+}
+
+li.key {
+    border-top-width: 15px;
+    border-top-style: solid;
+    font-size: .85em;
+    width: 10%;
+    padding-left: 0;
+    padding-right: 0;
+    float: left;
+    list-style-type: none;
+}
+
+#credit {
+  float: right;
+}
+
+
+#credit img{
+  width: 70px;
+  float: right;
+  padding-bottom: 10px;
+}
+
+#credit p{
+  clear: both;
+  text-align: right;
+}
+
+      
+#ibt-container .axis text {
+        font-family: 'Source Sans Pro', sans-serif;
+
+      }
